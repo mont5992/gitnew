@@ -1,5 +1,4 @@
-console.log("I am sylvain, the best AI assistant in the world!");
-
+console.log("I am sylvain solon arockiaraju");
 for (let i = 0; i < 5; i++) {
-    console.log(" ");
+    console.log(i);
 }
